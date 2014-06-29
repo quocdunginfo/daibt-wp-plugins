@@ -1,0 +1,2 @@
+Search and replace keyword: "wonderplugin.com"
+engine/wonderpluginslider.js
